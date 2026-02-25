@@ -3,8 +3,8 @@ skill补全&Review
 - testing skill
 agents定义
 - product-design
-- arch 
-- tech-design 
+- arch
+- tech-design
 ...
 docs/knowledge
 mcp接入
