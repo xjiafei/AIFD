@@ -1,0 +1,14 @@
+skill补全&Review
+- develop skill
+- testing skill
+agents定义
+- product-design
+- arch 
+- tech-design 
+...
+docs/knowledge
+mcp接入
+CC主工作流编排机制
+- 用户输入之后，各角色各司其职，输出需求spec补充、技术设计调整（接口等）、任务分解更新、测试用例更新，然后调起前后端角色进行各自实现
+demo
+待办事项管理系统
